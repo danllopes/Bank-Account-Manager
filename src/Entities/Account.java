@@ -3,7 +3,7 @@ package Entities;
 public class Account {
 
     private String holder;
-    private int accountNumber;
+    private final int accountNumber;
     private double balance;
 
     public Account(String holder, int accountNumber) {
@@ -11,10 +11,10 @@ public class Account {
         this.accountNumber = accountNumber;
     }
 
-    public Account(String holder, int accountNumber, double balance) {
+    public Account(String holder, int accountNumber, double deposit) {
         this.holder = holder;
         this.accountNumber = accountNumber;
-        this.balance = balance;
+        this.deposit(deposit);
     }
 
     /*
