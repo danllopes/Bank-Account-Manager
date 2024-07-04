@@ -9,7 +9,7 @@ public class Main {
         var sc = new Scanner(System.in);
 
         char option;
-        double deposit = 0;
+        double deposit;
         Account account;
 
         System.out.print("\nEnter account number: ");
