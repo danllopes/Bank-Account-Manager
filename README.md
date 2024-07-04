@@ -1,6 +1,6 @@
 # Programa de Cadastro e Gestão de Conta Bancária
 
-Este é um projeto desenvolvido como parte do estudo de Encapsulamento e Programação Orientada a Objetos (POO) no curso do professor Nélio Alves, oferecido pela EducandoWeb. 
+Este é um projeto desenvolvido como parte do estudo de Encapsulamento, Construtores, Sobrecarga e Programação Orientada a Objetos (POO) no curso do professor Nélio Alves, oferecido pela EducandoWeb. 
 O projeto foi desenvolvido utilizando Java 21 e a IDE IntelliJ IDEA.
 
 ## Descrição do Projeto
